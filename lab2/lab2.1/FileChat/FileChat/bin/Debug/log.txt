@@ -1,0 +1,59 @@
+2019-11-16 13:50:12.324 +03:00 [INF] User gonst connected to chat.
+2019-11-16 13:51:19.060 +03:00 [INF] User gonst connected to chat.
+2019-11-16 13:51:25.610 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 13:52:07.236 +03:00 [INF] User gonst connected to chat.
+2019-11-16 13:52:51.355 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 13:54:11.765 +03:00 [INF] User gonst connected to chat.
+2019-11-16 13:54:15.212 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 13:54:29.253 +03:00 [INF] User gonst connected to chat.
+2019-11-16 13:54:31.723 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 13:55:35.362 +03:00 [INF] User gonst connected to chat.
+2019-11-16 13:56:10.638 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 13:58:26.378 +03:00 [INF] User gonsy connected to chat.
+2019-11-16 13:58:29.254 +03:00 [ERR] User gonsy send incorrect message
+2019-11-16 13:58:51.057 +03:00 [INF] User gonsy send message "hi" ms.
+2019-11-16 13:58:51.057 +03:00 [ERR] User gonsy send incorrect message
+2019-11-16 13:58:59.299 +03:00 [INF] User gonsy send message "ow are you" ms.
+2019-11-16 13:58:59.299 +03:00 [ERR] User gonsy send incorrect message
+2019-11-16 13:59:00.586 +03:00 [ERR] User gonsy send incorrect message
+2019-11-16 14:00:13.105 +03:00 [INF] User gonst connected to chat.
+2019-11-16 14:00:14.534 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 14:00:17.314 +03:00 [INF] User gonst send message "fhd" ms.
+2019-11-16 14:00:17.314 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 14:00:21.324 +03:00 [INF] User gonst send message "fgjdfgk" ms.
+2019-11-16 14:00:21.324 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 14:00:22.188 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 14:00:23.251 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 14:01:03.832 +03:00 [INF] User gonst connected to chat.
+2019-11-16 14:01:30.951 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 14:01:44.846 +03:00 [INF] User gonst send message "Q" ms.
+2019-11-16 14:01:51.852 +03:00 [INF] User gont connected to chat.
+2019-11-16 14:02:01.773 +03:00 [ERR] User gont send incorrect message
+2019-11-16 14:02:03.782 +03:00 [INF] User gont send message "test" ms.
+2019-11-16 14:02:15.530 +03:00 [ERR] User gont send incorrect message
+2019-11-16 14:02:26.787 +03:00 [ERR] User gont send incorrect message
+2019-11-16 14:02:54.908 +03:00 [INF] User gont send message "test" ms.
+2019-11-16 14:02:59.328 +03:00 [ERR] User gont send incorrect message
+2019-11-16 14:03:40.791 +03:00 [INF] User kostua connected to chat.
+2019-11-16 14:03:49.977 +03:00 [ERR] User kostua send incorrect message
+2019-11-16 14:03:50.093 +03:00 [INF] User kostua send message "test" ms.
+2019-11-16 14:03:54.175 +03:00 [ERR] User kostua send incorrect message
+2019-11-16 14:03:54.184 +03:00 [INF] User kostua send message "message" ms.
+2019-11-16 14:04:32.431 +03:00 [INF] User gonst connected to chat.
+2019-11-16 14:04:36.309 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 14:04:36.330 +03:00 [INF] User gonst send message "hi" ms.
+2019-11-16 14:05:00.120 +03:00 [INF] User gonst connected to chat.
+2019-11-16 14:05:01.793 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 14:05:01.804 +03:00 [INF] User gonst send message "fg" ms.
+2019-11-16 14:05:39.771 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 14:05:39.779 +03:00 [INF] User gonst send message "how are you?" ms.
+2019-11-16 14:06:14.652 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 14:06:14.658 +03:00 [INF] User gonst send message "fgf" ms.
+2019-11-16 14:06:26.842 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 14:06:26.848 +03:00 [INF] User gonst send message "fgh" ms.
+2019-11-16 14:06:41.461 +03:00 [INF] User gonst connected to chat.
+2019-11-16 14:08:33.736 +03:00 [INF] User vasua connected to chat.
+2019-11-16 14:08:45.794 +03:00 [ERR] User vasua send incorrect message
+2019-11-16 14:08:45.806 +03:00 [INF] User vasua send message "oy hello" ms.
+2019-11-16 14:08:53.037 +03:00 [ERR] User vasua send incorrect message
+2019-11-16 14:08:53.043 +03:00 [INF] User vasua send message "how are uoy?" ms.

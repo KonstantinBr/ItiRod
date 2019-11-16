@@ -1,0 +1,130 @@
+2019-11-16 10:29:27.016 +03:00 [INF] User Gosst connected to chat.
+2019-11-16 10:29:28.737 +03:00 [ERR] User Gosst send incorrect message
+2019-11-16 10:30:27.281 +03:00 [INF] User gonst connected to chat.
+2019-11-16 10:30:28.320 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 10:31:29.599 +03:00 [INF] User gonst connected to chat.
+2019-11-16 10:31:30.575 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 10:31:32.685 +03:00 [INF] User gonst send message "rgrd" ms.
+2019-11-16 10:31:40.028 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 10:31:40.028 +03:00 [INF] User gonst send message "drgdr" ms.
+2019-11-16 10:31:40.898 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 10:31:40.898 +03:00 [INF] User gonst send message "drgdrg" ms.
+2019-11-16 10:31:43.026 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 10:31:43.027 +03:00 [INF] User gonst send message "q" ms.
+2019-11-16 10:31:45.244 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 10:31:45.244 +03:00 [INF] User gonst send message "Q" ms.
+2019-11-16 10:35:50.046 +03:00 [INF] User dfhd connected to chat.
+2019-11-16 10:37:55.824 +03:00 [INF] User drhdr connected to chat.
+2019-11-16 10:38:02.334 +03:00 [ERR] User drhdr send incorrect message
+2019-11-16 10:38:02.560 +03:00 [INF] User drhdr send message "dfhdf" ms.
+2019-11-16 10:38:08.537 +03:00 [ERR] User drhdr send incorrect message
+2019-11-16 10:38:08.537 +03:00 [INF] User drhdr send message "erteryry" ms.
+2019-11-16 10:38:10.570 +03:00 [ERR] User drhdr send incorrect message
+2019-11-16 10:38:10.571 +03:00 [INF] User drhdr send message "utytky" ms.
+2019-11-16 10:38:18.706 +03:00 [INF] User www connected to chat.
+2019-11-16 10:46:09.400 +03:00 [INF] User gonst connected to chat.
+2019-11-16 10:46:15.885 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 10:46:16.115 +03:00 [INF] User gonst send message "hello" ms.
+2019-11-16 10:46:32.612 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 10:46:32.612 +03:00 [INF] User gonst send message "how are uoy" ms.
+2019-11-16 10:47:03.958 +03:00 [INF] User gonst connected to chat.
+2019-11-16 10:47:09.751 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 10:47:09.965 +03:00 [INF] User gonst send message "hello" ms.
+2019-11-16 10:47:27.986 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 10:47:30.970 +03:00 [INF] User gonst send message "how are you" ms.
+2019-11-16 10:48:08.968 +03:00 [INF] User gonst connected to chat.
+2019-11-16 10:48:23.105 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 10:48:23.638 +03:00 [INF] User gonst send message "hello" ms.
+2019-11-16 10:48:34.841 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 10:49:11.010 +03:00 [INF] User gonst connected to chat.
+2019-11-16 10:49:20.195 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 10:49:20.719 +03:00 [INF] User gonst send message "how are you" ms.
+2019-11-16 10:49:22.524 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 10:51:20.317 +03:00 [INF] User g connected to chat.
+2019-11-16 10:51:25.531 +03:00 [ERR] User g send incorrect message
+2019-11-16 10:51:26.048 +03:00 [INF] User g send message "j" ms.
+2019-11-16 10:51:27.696 +03:00 [ERR] User g send incorrect message
+2019-11-16 10:57:07.440 +03:00 [INF] User r connected to chat.
+2019-11-16 10:57:14.339 +03:00 [ERR] User r send incorrect message
+2019-11-16 10:57:14.853 +03:00 [INF] User r send message "ghj" ms.
+2019-11-16 10:57:16.006 +03:00 [ERR] User r send incorrect message
+2019-11-16 11:02:13.445 +03:00 [INF] User f connected to chat.
+2019-11-16 11:02:19.422 +03:00 [ERR] User f send incorrect message
+2019-11-16 11:02:20.012 +03:00 [INF] User f send message "dfh" ms.
+2019-11-16 11:02:21.753 +03:00 [ERR] User f send incorrect message
+2019-11-16 11:03:52.795 +03:00 [INF] User gsdghe connected to chat.
+2019-11-16 11:03:59.854 +03:00 [ERR] User gsdghe send incorrect message
+2019-11-16 11:04:39.538 +03:00 [INF] User gsdghe send message "rey" ms.
+2019-11-16 11:04:47.459 +03:00 [ERR] User gsdghe send incorrect message
+2019-11-16 11:08:19.474 +03:00 [INF] User dfhf connected to chat.
+2019-11-16 11:08:25.206 +03:00 [ERR] User dfhf send incorrect message
+2019-11-16 11:08:25.767 +03:00 [INF] User dfhf send message "drhdr" ms.
+2019-11-16 11:08:27.535 +03:00 [ERR] User dfhf send incorrect message
+2019-11-16 11:09:33.063 +03:00 [INF] User dgfjd connected to chat.
+2019-11-16 11:09:39.714 +03:00 [ERR] User dgfjd send incorrect message
+2019-11-16 11:09:40.260 +03:00 [INF] User dgfjd send message "fgj" ms.
+2019-11-16 11:09:42.465 +03:00 [ERR] User dgfjd send incorrect message
+2019-11-16 11:10:01.162 +03:00 [INF] User qqqqqqqqqqqq connected to chat.
+2019-11-16 11:10:07.275 +03:00 [ERR] User qqqqqqqqqqqq send incorrect message
+2019-11-16 11:11:51.840 +03:00 [INF] User qqqqqqqqqqqq send message "wwwwwwwwwwwwwwww" ms.
+2019-11-16 11:12:05.614 +03:00 [ERR] User qqqqqqqqqqqq send incorrect message
+2019-11-16 11:17:03.201 +03:00 [INF] User rgerge connected to chat.
+2019-11-16 11:17:14.624 +03:00 [ERR] User rgerge send incorrect message
+2019-11-16 11:17:33.435 +03:00 [INF] User rgerge send message "rew" ms.
+2019-11-16 11:17:47.056 +03:00 [ERR] User rgerge send incorrect message
+2019-11-16 11:19:05.627 +03:00 [INF] User ssg connected to chat.
+2019-11-16 11:19:12.751 +03:00 [ERR] User ssg send incorrect message
+2019-11-16 11:19:17.623 +03:00 [INF] User ssg send message "eryer" ms.
+2019-11-16 11:19:59.499 +03:00 [ERR] User ssg send incorrect message
+2019-11-16 11:20:44.208 +03:00 [INF] User qwerty connected to chat.
+2019-11-16 11:20:57.054 +03:00 [ERR] User qwerty send incorrect message
+2019-11-16 11:21:23.981 +03:00 [INF] User qwerty send message "qqq111" ms.
+2019-11-16 11:21:36.905 +03:00 [ERR] User qwerty send incorrect message
+2019-11-16 11:23:18.583 +03:00 [INF] User fdhdf connected to chat.
+2019-11-16 11:23:25.776 +03:00 [ERR] User fdhdf send incorrect message
+2019-11-16 11:23:30.359 +03:00 [INF] User fdhdf send message "dfhd" ms.
+2019-11-16 11:23:34.348 +03:00 [ERR] User fdhdf send incorrect message
+2019-11-16 11:23:34.361 +03:00 [INF] User fdhdf send message "fdhh" ms.
+2019-11-16 11:23:36.008 +03:00 [ERR] User fdhdf send incorrect message
+2019-11-16 11:23:36.013 +03:00 [INF] User fdhdf send message "fjgdjg" ms.
+2019-11-16 11:23:37.905 +03:00 [ERR] User fdhdf send incorrect message
+2019-11-16 11:23:37.909 +03:00 [INF] User fdhdf send message "fgjfgs" ms.
+2019-11-16 11:26:25.071 +03:00 [INF] User qwe connected to chat.
+2019-11-16 11:26:31.450 +03:00 [ERR] User qwe send incorrect message
+2019-11-16 11:26:32.007 +03:00 [INF] User qwe send message "rturtu" ms.
+2019-11-16 11:26:33.659 +03:00 [ERR] User qwe send incorrect message
+2019-11-16 11:26:33.670 +03:00 [INF] User qwe send message "rturtu" ms.
+2019-11-16 11:26:35.819 +03:00 [ERR] User qwe send incorrect message
+2019-11-16 11:26:35.824 +03:00 [INF] User qwe send message "rtuiuyy," ms.
+2019-11-16 11:32:12.691 +03:00 [INF] User sdfh connected to chat.
+2019-11-16 11:32:31.060 +03:00 [ERR] User sdfh send incorrect message
+2019-11-16 11:32:31.632 +03:00 [INF] User sdfh send message "fggh" ms.
+2019-11-16 11:33:13.664 +03:00 [INF] User gonst connected to chat.
+2019-11-16 11:33:21.512 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 11:33:58.860 +03:00 [INF] User gonst connected to chat.
+2019-11-16 11:34:31.203 +03:00 [INF] User bfsg connected to chat.
+2019-11-16 11:36:11.248 +03:00 [ERR] User bfsg send incorrect message
+2019-11-16 11:36:27.283 +03:00 [INF] User dfhsfgj connected to chat.
+2019-11-16 11:36:33.331 +03:00 [ERR] User dfhsfgj send incorrect message
+2019-11-16 11:37:13.524 +03:00 [INF] User hello connected to chat.
+2019-11-16 11:46:03.623 +03:00 [INF] User gonst connected to chat.
+2019-11-16 11:46:32.168 +03:00 [INF] User gonst connected to chat.
+2019-11-16 11:49:36.883 +03:00 [INF] User dfghd connected to chat.
+2019-11-16 11:49:44.510 +03:00 [ERR] User dfghd send incorrect message
+2019-11-16 11:49:45.110 +03:00 [INF] User dfghd send message "dfgdf" ms.
+2019-11-16 11:49:55.255 +03:00 [ERR] User dfghd send incorrect message
+2019-11-16 11:49:55.271 +03:00 [INF] User dfghd send message "qwetetry" ms.
+2019-11-16 11:51:46.190 +03:00 [INF] User gonst connected to chat.
+2019-11-16 11:52:00.904 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 11:52:01.473 +03:00 [INF] User gonst send message "hi" ms.
+2019-11-16 11:52:12.440 +03:00 [ERR] User gonst send incorrect message
+2019-11-16 11:52:12.455 +03:00 [INF] User gonst send message "how are you?" ms.
+2019-11-16 11:55:49.135 +03:00 [INF] User dfg connected to chat.
+2019-11-16 11:56:00.152 +03:00 [ERR] User dfg send incorrect message
+2019-11-16 11:56:00.739 +03:00 [INF] User dfg send message "Q" ms.
+2019-11-16 11:58:32.604 +03:00 [INF] User dfdf connected to chat.
+2019-11-16 11:58:39.699 +03:00 [ERR] User dfdf send incorrect message
+2019-11-16 11:58:40.328 +03:00 [INF] User dfdf send message "dffh" ms.
+2019-11-16 14:20:53.921 +03:00 [INF] User Пщтые connected to chat.
+2019-11-16 14:21:01.899 +03:00 [ERR] User Пщтые send incorrect message
+2019-11-16 14:21:02.420 +03:00 [INF] User Пщтые send message "hello" ms.

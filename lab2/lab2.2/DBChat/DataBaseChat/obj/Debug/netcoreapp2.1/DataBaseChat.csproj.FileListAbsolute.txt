@@ -1,0 +1,11 @@
+C:\ABUCENIE\ITiROD\lab2\lab2.2\DBChat\DataBaseChat\bin\Debug\netcoreapp2.1\DataBaseChat.deps.json
+C:\ABUCENIE\ITiROD\lab2\lab2.2\DBChat\DataBaseChat\bin\Debug\netcoreapp2.1\DataBaseChat.runtimeconfig.json
+C:\ABUCENIE\ITiROD\lab2\lab2.2\DBChat\DataBaseChat\bin\Debug\netcoreapp2.1\DataBaseChat.runtimeconfig.dev.json
+C:\ABUCENIE\ITiROD\lab2\lab2.2\DBChat\DataBaseChat\bin\Debug\netcoreapp2.1\DataBaseChat.dll
+C:\ABUCENIE\ITiROD\lab2\lab2.2\DBChat\DataBaseChat\obj\Debug\netcoreapp2.1\DataBaseChat.csprojAssemblyReference.cache
+C:\ABUCENIE\ITiROD\lab2\lab2.2\DBChat\DataBaseChat\obj\Debug\netcoreapp2.1\DataBaseChat.csproj.CoreCompileInputs.cache
+C:\ABUCENIE\ITiROD\lab2\lab2.2\DBChat\DataBaseChat\obj\Debug\netcoreapp2.1\DataBaseChat.AssemblyInfoInputs.cache
+C:\ABUCENIE\ITiROD\lab2\lab2.2\DBChat\DataBaseChat\obj\Debug\netcoreapp2.1\DataBaseChat.AssemblyInfo.cs
+C:\ABUCENIE\ITiROD\lab2\lab2.2\DBChat\DataBaseChat\bin\Debug\netcoreapp2.1\DataBaseChat.pdb
+C:\ABUCENIE\ITiROD\lab2\lab2.2\DBChat\DataBaseChat\obj\Debug\netcoreapp2.1\DataBaseChat.dll
+C:\ABUCENIE\ITiROD\lab2\lab2.2\DBChat\DataBaseChat\obj\Debug\netcoreapp2.1\DataBaseChat.pdb
